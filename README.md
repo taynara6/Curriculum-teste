@@ -1,0 +1,1 @@
+Para visualizar o projeto online, acesse: [Link da minha página](https://taynara6.github.io/Curriculum-teste/)
